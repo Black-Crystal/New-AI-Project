@@ -2,6 +2,6 @@
 
 This repository contains the code and models for the AI project.
 
-##Instructions
+## Instructions
 
     Define the Problem
